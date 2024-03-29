@@ -1,5 +1,5 @@
 import "modern-normalize";
-import "../../index.css";
+import "/src/components/index.css";
 import userData from "../../userData.json";
 import friendsData from "../../friends.json";
 import transactionsData from "../../transactions.json";

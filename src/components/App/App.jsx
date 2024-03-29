@@ -1,11 +1,11 @@
 import "modern-normalize";
 import "/src/components/index.css";
-import userData from "../../userData.json";
-import friendsData from "../../friends.json";
-import transactionsData from "../../transactions.json";
-import Profile from "../Profile/Profile";
-import FriendList from "../FriendsList/FriendsList";
-import TransactionHistory from "../TransactionHistory/TransactionHistory";
+import userData from "/src/components/userData.json";
+import friendsData from "/src/components/friends.json";
+import transactionsData from "/src/components/transactions.json";
+import Profile from "/src/components/Profile/Profile";
+import FriendList from "/src/components/FriendsList/FriendsList";
+import TransactionHistory from "/src/components/TransactionHistory/TransactionHistory";
 
 export default function App() {
   return (
